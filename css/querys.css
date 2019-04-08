@@ -1,0 +1,105 @@
+/* 1366 NOTEBOOK  */
+
+@media screen and (max-width: 1366px) {
+	.integridad-colum-1 {
+		padding-left: 10px;
+    	padding-right: 10px;
+	}
+	.integridad-colum-1 h3 {
+		margin-top: 20px !important;
+	}
+	.integridad-colum-2, 
+	.integridad-colum-3, 
+	.integridad-colum-4, 
+	.integridad-colum-5 {
+		padding: 115px 25px 0;
+	}
+	.integridad-colum-2 p i, .integridad-colum-3 p i, 
+	.integridad-colum-4 p i, .integridad-colum-5 p i {
+		margin-top: 0px;
+	}
+	img.img-cons, 
+	img.img-trans, 
+	img.img-elec, 
+	img.img-leg, 
+	img.img-sus {
+		margin-top: 76px;
+	}
+	/* NAVBAR */
+	.container-nav-inner-sections {
+		width: 1236px;
+	}
+	.modal-content .modal-body {
+		margin-top: 20px;
+		padding-bottom: 0px;
+	}
+	ul.modal-menu-ul {
+		margin-bottom: 0;
+	}
+	.modal-footer {
+		padding-top: 0px;
+	}
+	.logo-modal-menu {
+		margin-top: 10px;
+	}
+	/*  FOOTER  */
+	footer {
+		height: auto;
+	}
+	/* SUSTENTABILIDAD */
+	.sus-dos .sus-tarjetas {
+		width: 1236px;
+	}
+	.sus-dos .sus-tarjetas .sus-tarjetas-inner {
+		margin-left: 19px;
+    	margin-right: 19px;
+	}
+	/* TRANSPARENCIA */
+	.trans-uno .trans-uno-tarjetas {
+		margin-left: 0;
+		margin-right: 0; 
+	}
+	.trans-uno .trans-uno-tarjetas-inner {
+		margin-left: 15px;
+    	margin-right: 15px;
+	}
+	.trans-dos .trans-dos-tarjetas {
+		width: 1266px;
+	}
+	.trans-dos .trans-dos-tarjetas .trans-dos-tarjetas-inner {
+		margin-left: 22px;
+    	margin-right: 22px;
+	}
+	.trans-tres .trans-tres-tabs {
+		width:1366px;
+	}
+	.trans-tres .trans-tres-tabs .nav-tabs>li>a {
+		margin-left: 5.45px;
+	    margin-right: 5.45px;
+	    padding: 33px 10.5px 19.5px 10.5px;
+	}
+	.trans-tres .trans-tres-tabs .tab-content .trans-tres-tab-tarjetas-inner {
+		margin-left: 14.95px;
+    	margin-right: 14.95px;
+	}
+	/* TRANSPARENCIA - TA */
+	.ta .ta-uno-carousel-tarjetas .carousel-control.right {
+		right: 10px;
+	}
+	.ta .ta-uno-carousel-tarjetas .carousel-control.left {
+		left: 10px;
+	}
+	.ta-dos-content {
+		width: 1266px;
+	}
+	.ta .ta-dos .ta-dos-content-inner {
+		padding-left: 34.5px;
+    	padding-right: 34.5px;
+	}
+}
+
+/* ------------- IPHONE ------------- */
+
+@media screen and (max-width: 480px) { 
+
+}
