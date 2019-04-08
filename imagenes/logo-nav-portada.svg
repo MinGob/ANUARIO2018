@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="233.746" height="138.281" viewBox="0 0 233.746 138.281">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:#fff}.cls-1,.cls-4{font-size:18px}.cls-1{font-family:GothamRounded-Medium,Gotham Rounded;font-weight:500;letter-spacing:-.022em}.cls-2{fill:none;stroke:#fff;stroke-width:2px}.cls-4{fill:#2b2b2b;font-family:GothamRounded-Bold,Gotham Rounded;font-weight:700;letter-spacing:-.04em}.cls-5{filter:url(#Rectángulo_9)}.cls-6{filter:url(#Trazado_42)}.cls-7{filter:url(#Trazado_41)}.cls-8{filter:url(#Democracia_y_Transparencia)}
+        </style>
+        <filter id="Democracia_y_Transparencia" width="140" height="65" x="47.051" y="22.981" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Trazado_41" width="233.746" height="45.354" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-2" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Trazado_42" width="233.746" height="45.354" x="0" y="76.495" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-3" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="Rectángulo_9" width="91.338" height="53.59" x="71.642" y="84.691" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="Grupo_289" data-name="Grupo 289" transform="translate(-843 -62.401)">
+        <g id="Grupo_117" data-name="Grupo 117" transform="translate(-7.5 6)">
+            <g class="cls-8" transform="translate(850.5 56.4)">
+                <text id="Democracia_y_Transparencia-2" class="cls-1" data-name="Democracia y Transparencia" transform="translate(117.05 45.98)">
+                    <tspan x="-59.652" y="0">Democracia y</tspan><tspan x="-60.561" y="26">Transparencia</tspan>
+                </text>
+            </g>
+            <g class="cls-7" transform="translate(850.5 56.4)">
+                <path id="Trazado_41-2" d="M888.3 91.754V65.4h213.745v26.354" class="cls-2" data-name="Trazado 41" transform="translate(-878.3 -58.4)"/>
+            </g>
+            <g class="cls-6" transform="translate(850.5 56.4)">
+                <path id="Trazado_42-2" d="M0 26.354V0h213.745v26.354" class="cls-2" data-name="Trazado 42" transform="rotate(180 111.875 54.425)"/>
+            </g>
+            <g class="cls-5" transform="translate(850.5 56.4)">
+                <rect id="Rectángulo_9-2" width="73.338" height="35.59" class="cls-3" data-name="Rectángulo 9" rx="3" transform="translate(80.64 90.69)"/>
+            </g>
+            <text id="_2018" class="cls-4" data-name="2018" transform="translate(931.142 155.719)">
+                <tspan x="16.149" y="17">2018</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
