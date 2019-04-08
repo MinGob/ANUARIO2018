@@ -542,7 +542,7 @@ img.img-sus {
  	opacity: 0;
  	transition: all 2s ease-out;
  }
-img.img-cons,
+/*img.img-cons,
 img.img-elec,
 img.img-sus {
  	transform: translateX(50vh);
@@ -550,7 +550,7 @@ img.img-sus {
 img.img-trans,
 img.img-leg {
 	transform: translateX(-50vh);
- }
+ }*/
 .fp-viewing-construccion img.img-cons {
 	opacity: 1;
 	transform: translateX(0);
